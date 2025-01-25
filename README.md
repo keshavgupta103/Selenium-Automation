@@ -22,3 +22,17 @@ This repository contains an end-to-end (E2E) automation framework for testing a 
 |-- package.json
 |-- README.md
 |-- index.js
+
+
+
+## Setup
+
+### Step 1: Clone the Repository
+```bash
+git clone [<repository-url>](https://github.com/keshavgupta103/Selenium-Automation)
+cd Selenium-Automation
+
+### Step 2: Install Dependencies
+Install the required Node.js dependencies:
+```bash
+npm install selenium-webdriver dotenv
