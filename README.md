@@ -24,7 +24,7 @@ This repository contains an end-to-end (E2E) automation framework for testing a 
 
    Clone the project from GitHub to your local machine:
    ```bash
-   git clone https://github.com/keshavgupta103/top-courses.git
+   git clone https://github.com/keshavgupta103/Selenium-Automation
 Step 2: Install Dependencies
 Install the required Node.js dependencies:
 
