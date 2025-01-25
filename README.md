@@ -8,6 +8,7 @@ This repository contains an end-to-end (E2E) automation framework for testing a 
 5) Selenium WebDriver: Installed via npm.
 
 # Project Structure
+```bash
 |-- src/
     |-- loginPage.js
     |-- cartPage.js
